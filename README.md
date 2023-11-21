@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Dario Carretta 👋
 
-<!--
-**dariocarretta/dariocarretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Artificial Intelligence student currently pursuing my education at University of Pavia 🎓. This background has provided me wiith a wide range of AI-oriented skills, but I am always keen on expanding my knowledge in AI and learn new things about this rapidly evolving field. 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Interests and Goals
+
+My goal is to contribute to the research and development of AI tools that can help people in many fields, improving their life quality. I'm particularly interested about the applications of AI in Healthcare 🩺.
+
+## 🛠️ Projects
+
+You can freely explore my projects to see what I'm working on and what I've larned in the field of AI!
