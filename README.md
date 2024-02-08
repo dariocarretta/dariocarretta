@@ -2,7 +2,7 @@
 
 ## 🌐 About Me
 
-I'm a passionate Artificial Intelligence student currently pursuing my education at University of Pavia 🎓. This background has provided me wiith a wide range of AI-oriented skills, but I am always keen on expanding my knowledge in AI and learn new things about this rapidly evolving field. 📚
+I'm an Artificial Intelligence student currently pursuing my education at University of Pavia 🎓. My study background has provided me with a wide range of AI-oriented skills, but I am always keen on expanding my knowledge in AI and learn new things about this rapidly evolving field. 📚
 
 ## 🌍 Interests and Goals
 
@@ -10,4 +10,4 @@ My goal is to contribute to the research and development of AI tools that can he
 
 ## 🛠️ Projects
 
-You can freely explore my projects to see what I'm working on and what I've larned in the field of AI!
+You can freely explore my projects to see what I'm working on and what I've learned in the field of AI 👀
