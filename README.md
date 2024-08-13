@@ -2,7 +2,7 @@
 
 ## 🌐 About Me
 
-I'm an Artificial Intelligence BSc graduate student. My study background has provided me with a wide range of AI-oriented skills, but I am always keen on expanding my knowledge in AI and learn new things about this rapidly evolving field. 📚
+I'm an Artificial Intelligence BSc graduated student. My study background has provided me with a wide range of AI-oriented skills, but I am always keen on expanding my knowledge in AI and learn new things about this rapidly evolving field. 📚
 
 ## 🌍 Interests and Goals
 
