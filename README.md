@@ -6,7 +6,7 @@ I'm an Artificial Intelligence Msc student. My study background has provided me 
 
 ## 🌍 Interests and Goals
 
-My goal is to contribute to the research and development of AI tools that can help people in many fields, improving their life quality. I'm particularly interested in AI applied to computer vision and I am currently studying its application to Industry and Environment.
+My goal is to contribute to the research and development of AI tools that can help people in many fields, improving their life quality. I'm particularly interested in AI applied to computer vision and I am currently studying its application to Space Industry and Environment.
 
 ## 🛠️ Projects
 
